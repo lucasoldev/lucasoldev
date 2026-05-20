@@ -1,6 +1,14 @@
 # Hey, I'm Lucas 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.oliveira.pessoal@hotmail.com) 
+<p align="left">
+  <a href="https://linkedin.com/in/lucas-oliveira-it">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lucas.oliveira.profissional@hotmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" />
+  </a>
+</p>
 
 I'm a Python Developer with a Bachelor's degree in Computer Science. I build backend platforms, work with APIs, system integration, and event-driven data pipelines — streaming data through Kafka, processing in real time, and persisting to PostgreSQL. I also have experience with Oracle databases.
 
@@ -20,7 +28,6 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
 ---
 
 ## Languages and Tools:
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />&nbsp;&nbsp;
@@ -79,18 +86,6 @@ Self-hosted real-time presentation timer — dual interface (controller + displa
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=lucasoldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=lucasoldev&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucasoldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/lucas-oliveira-it)
-- 📧 [lucas.oliveira.profissional@hotmail.com](mailto:lucas.oliveira.profissional@hotmail.com)
-
 
 ---
