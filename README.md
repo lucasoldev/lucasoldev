@@ -4,10 +4,6 @@
   <a href="https://linkedin.com/in/lucas-oliveira-it">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lucas.oliveira.profissional@hotmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.svg" height="32" />
-  </a>
 </p>
 
 I'm a Python Developer with a Bachelor's degree in Computer Science. I build backend platforms, work with APIs, system integration, and event-driven data pipelines — streaming data through Kafka, processing in real time, and persisting to PostgreSQL. I also have experience with Oracle databases.
