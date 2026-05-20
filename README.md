@@ -2,22 +2,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.oliveira.pessoal@hotmail.com) 
 
-I'm a Python Developer with a Bachelor's degree in Computer Science. I build event-driven data pipelines — ingesting data from APIs into Apache Kafka, processing streams in real time with independent consumers, and persisting to PostgreSQL. I enjoy backend development, working with APIs, system integration, and designing decoupled architectures.
+I'm a Python Developer with a Bachelor's degree in Computer Science. I build backend platforms, work with APIs, system integration, and event-driven data pipelines — streaming data through Kafka, processing in real time, and persisting to PostgreSQL. I also have experience with Oracle databases.
 
-In my free time I play around with Raspberry Pi, explore streaming data patterns, and build tools that solve real problems — from presentation timers to church management ERPs.
-
-> Check out the pinned repositories below to see what I've been building.
+Outside of code, you'll find me swimming, hanging out with friends, tinkering with electronics, working on my car, or hitting the road to find waterfalls and nature spots.
 
 ---
 
 ## 💡 What I Do
 
 - 🏗️ **Backend Development** — Django, FastAPI, Flask, DRF
-- 📡 **Event-Driven Pipelines** — APIs → Kafka → real-time processing → PostgreSQL
+- 📡 **Event-Driven Pipelines** — APIs, Kafka, PostgreSQL
 - 🔗 **System Integration** — REST APIs, WebSockets, message brokers
-- 🐳 **DevOps & Infrastructure** — Docker, Linux, systemd, Nginx
-- 🛠️ **Hardware Tinkering** — Raspberry Pi projects, Pi-hole, local servers
-- 📊 **Data Engineering** — Pandas, Jupyter, streaming data, Oracle DB
+- 🐳 **DevOps & Infrastructure** — Docker, Linux
+- 🛠️ **Hardware Tinkering** — Electronic projects, Raspberry
+- 📊 **Data Engineering** — Pandas, streaming data
 
 ---
 
@@ -51,7 +49,6 @@ In my free time I play around with Raspberry Pi, explore streaming data patterns
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 ---
