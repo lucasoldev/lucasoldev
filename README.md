@@ -6,7 +6,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:lucas.oliveira.profissional@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.svg" height="32" />
   </a>
 </p>
 
