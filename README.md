@@ -30,14 +30,12 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />&nbsp;&nbsp;
@@ -51,6 +49,8 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pihole/pihole-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" />
