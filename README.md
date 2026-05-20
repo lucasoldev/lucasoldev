@@ -19,7 +19,17 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
 
 ---
 
-## 🔧 Tech Stack
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24" />
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
