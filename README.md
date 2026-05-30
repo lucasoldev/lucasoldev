@@ -61,7 +61,7 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
 
 ## 🚀 Featured Projects
 
-### [Kafka n APIs](https://github.com/lucasoldev/kafka-n-apis)
+### [Kafka n APIs](https://github.com/lucasoldev/kafkanapis)
 Streaming Pi-hole DNS events, public API data, and synthetic data through Kafka — producers on a Raspberry Pi, 3 independent consumers processing logs, metrics, and external data in real time.
 > `Python` `Kafka` `Docker` `Raspberry Pi` `Flask` `PostgreSQL`
 
