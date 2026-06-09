@@ -73,7 +73,7 @@ ERP for cell church management — Django + DRF backend with 15+ domain modules,
 Professional web metronome with multi-track BPM management, custom WAV upload, keyboard shortcuts, and a REST API for external control. Precision audio via Web Audio API.
 > `Python` `Flask` `Web Audio API` `REST`
 
-### [Presentation Timer](https://github.com/lucasoldev/presentation-timer)
+### [Presentation Timer](https://github.com/lucasoldev/timer))
 Self-hosted real-time presentation timer — dual interface (controller + display) synced via WebSockets, color-coded alerts, custom thresholds, and speaker messaging. Inspired by Stagetimer.io.
 > `Python` `FastAPI` `Socket.IO` `WebSockets` `Jinja2`
 
