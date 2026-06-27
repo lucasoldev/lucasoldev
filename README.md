@@ -16,10 +16,10 @@ Outside of code, you'll find me swimming, hanging out with friends, tinkering wi
 
 - 🏗️ **Backend Development** — Django, FastAPI, Flask, DRF
 - 📡 **Event-Driven Pipelines** — APIs, Kafka, PostgreSQL
-- 🔗 **System Integration** — REST APIs, WebSockets, message brokers
+- 🔗 **System Integration** — REST APIs, WebSockets, Message brokers
 - 🐳 **DevOps & Infrastructure** — Docker, Linux
 - 🛠️ **Hardware Tinkering** — Electronic projects, Raspberry
-- 📊 **Data Engineering** — Pandas, streaming data
+- 📊 **Data Engineering** — Pandas, Streaming data
 
 ---
 
